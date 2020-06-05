@@ -1,0 +1,19 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+.subCtrl{
+    display: inline-block;
+    width: 50%;
+    height: 80px;
+    line-height: 80px;
+    font-size: 20px;
+    text-align: center;
+}
+.active{
+    border-bottom: 2px solid skyblue;
+}
+.newsList{
+    
+    padding: 20px;
+}

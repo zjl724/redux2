@@ -1,0 +1,9 @@
+.ant-input{
+    display: inline-block;
+    height: 35px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.ant-btn{
+    margin-left: 20px;
+}

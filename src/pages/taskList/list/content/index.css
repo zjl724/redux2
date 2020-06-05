@@ -1,0 +1,19 @@
+ul {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.list li {
+    padding: 5px 10px;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+}
+
+.list p {
+    width: 444px;
+    display: inline-block;
+}
+
+.finish {
+    text-decoration: line-through
+}
